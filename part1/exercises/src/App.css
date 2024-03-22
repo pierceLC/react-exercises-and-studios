@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  background-color: bisque;
 }
 
 .App-logo {
@@ -40,4 +40,11 @@
 .similarComponents {
   display:flex;
 justify-content:space-between;
+text-align: center;
+}
+.box {
+  border: 1px solid black; 
+  padding: 10px; 
+  margin-bottom: 10px; 
+  background-color: rgb(194, 194, 216);
 }
